@@ -15,5 +15,5 @@ Microphone echo in 101/132b
 
 Webcam + microphone echo in 109/140b
 
-- http://xem.github.io/miniCam/audio.html (no Firefox support yet)
-- http://xem.github.io/miniCam/audio-cross-browser.html (Firefox support)
+- http://xem.github.io/miniCam/audio-video.html (no Firefox support yet)
+- http://xem.github.io/miniCam/audio-video-cross-browser.html (Firefox support)
