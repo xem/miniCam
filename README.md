@@ -3,17 +3,14 @@ miniCam
 
 Golfed with Anders Kaare and Subzey
 
-Webcam echo in 101b (132b for the cross-browser version)
+Webcam echo (98b)
 
-- http://xem.github.io/miniCam (no Firefox support yet)
-- http://xem.github.io/miniCam/cross-browser.html (Firefox support)
+- http://xem.github.io/miniCam 
 
-Microphone echo in 101/132b
+Microphone echo (98b)
 
-- http://xem.github.io/miniCam/audio.html (no Firefox support yet)
-- http://xem.github.io/miniCam/audio-cross-browser.html (Firefox support)
+- http://xem.github.io/miniCam/audio.html
 
-Webcam + microphone echo in 109/140b
+Webcam + microphone echo (106b)
 
-- http://xem.github.io/miniCam/audio-video.html (no Firefox support yet)
-- http://xem.github.io/miniCam/audio-video-cross-browser.html (Firefox support)
+- http://xem.github.io/miniCam/audio-video.html
